@@ -20,83 +20,56 @@ A complete dashboard walkthrough video is also included for demonstration.
 📊 Dashboard Structure
 Page 1 – Stock Overview & Trend Analysis
 
-Price trend analysis with moving averages
-
-Trading volume analysis
-
-Summary KPIs and detailed data table
+    Price trend analysis with moving averages
+    Trading volume analysis
+    Summary KPIs and detailed data table
 
 Page 2 – Volatility, Risk & Market Activity
 
-Rolling volatility & 52-week high/low analysis
-
-Volume trend analysis
-
-Waterfall contribution chart
-
-Risk gauge and metric heatmaps
+    Rolling volatility & 52-week high/low analysis
+    Volume trend analysis
+    Waterfall contribution chart
+    Risk gauge and metric heatmaps
 
 Page 3 – Market Landscape & Comparative Analysis
 
-Volatility vs return scatter analysis
-
-Market capitalization concentration
-
-Volume treemap and top gainers/losers
-
-Comparative performance table
+    Volatility vs return scatter analysis
+    Market capitalization concentration
+    Volume treemap and top gainers/losers
+    Comparative performance table
 
 Page 4 – Model-Informed Insights
 
-Actual vs model-informed trend comparison
-
-Regression model performance evaluation (RMSE, R²)
-
-Market regime discovery using return–volatility scatter
-
-Directional performance KPIs
+    Actual vs model-informed trend comparison
+    Regression model performance evaluation (RMSE, R²)
+    Market regime discovery using return–volatility scatter
+    Directional performance KPIs
 
 Page 5 – Deep Learning Forecasting
 
-LSTM-based stock price forecasting
-
-Multi-horizon forecasts (7D / 14D / 30D)
-
-Company vs company forecast comparison
-
-Forecast KPIs and interpretative insights
+    LSTM-based stock price forecasting
+    Multi-horizon forecasts (7D / 14D / 30D)
+    Company vs company forecast comparison
+    Forecast KPIs and interpretative insights
 
 🛠 Tools & Technologies Used
 
-Power BI
-
-DAX Measures
-
-KPIs, Slicers, Interactive Visuals
-
-Python
-
-Pandas, NumPy
-
-Scikit-learn (Regression Models)
-
-TensorFlow / Keras (LSTM)
-
-Machine Learning & Deep Learning
-
-Time Series Analysis
-
-Excel / CSV (Data Exchange)
+    Power BI
+        DAX Measures
+        KPIs, Slicers, Interactive Visuals
+    Python
+        Pandas, NumPy
+        Scikit-learn (Regression Models)
+        TensorFlow / Keras (LSTM)
+    Machine Learning & Deep Learning
+    Time Series Analysis
+    Excel / CSV (Data Exchange)
 
 🧠 Models Implemented
 
-Linear Regression
-
-Polynomial Regression
-
-Multiple Linear Regression
-
-Artificial Neural Network (MLP)
-
-LSTM Deep Learning Model (for forecasting)
+    Linear Regression
+    Polynomial Regression
+    Multiple Linear Regression
+    Artificial Neural Network (MLP)
+    LSTM Deep Learning Model (for forecasting)
 
