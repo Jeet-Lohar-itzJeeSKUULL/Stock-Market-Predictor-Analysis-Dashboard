@@ -57,10 +57,12 @@ Page 5 – Deep Learning Forecasting
     Power BI
         DAX Measures
         KPIs, Slicers, Interactive Visuals
+        
     Python
         Pandas, NumPy
         Scikit-learn (Regression Models)
         TensorFlow / Keras (LSTM)
+        
     Machine Learning & Deep Learning
     Time Series Analysis
     Excel / CSV (Data Exchange)
