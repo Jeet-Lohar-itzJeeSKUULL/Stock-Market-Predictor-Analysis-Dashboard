@@ -175,7 +175,7 @@ The LSTM model captures temporal dependencies and long-term price trends for mor
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/stock-market-predictor.git
+git clone https://github.com/Jeet-Lohar-itzJeeSKUULL/Stock-Market-Predictor-Analysis-Dashboard.git
 cd stock-market-predictor
 ```
 
